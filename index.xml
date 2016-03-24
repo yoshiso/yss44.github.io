@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>yohsiso&#39;s blog</title>
-    <link>http://yss44.github.io/</link>
+    <link>http://blog.yoshiso.net/</link>
     <description>Recent content on yohsiso&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Thu, 24 Mar 2016 23:17:41 +0900</lastBuildDate>
-    <atom:link href="http://yss44.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.yoshiso.net/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About me</title>
-      <link>http://yss44.github.io/about/</link>
+      <link>http://blog.yoshiso.net/about/</link>
       <pubDate>Thu, 24 Mar 2016 23:17:41 +0900</pubDate>
       
-      <guid>http://yss44.github.io/about/</guid>
+      <guid>http://blog.yoshiso.net/about/</guid>
       <description>
 
 &lt;h2 id=&#34;who:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Who&lt;/h2&gt;
@@ -45,10 +45,10 @@
     
     <item>
       <title>helloworld</title>
-      <link>http://yss44.github.io/post/helloworld/</link>
+      <link>http://blog.yoshiso.net/post/helloworld/</link>
       <pubDate>Thu, 24 Mar 2016 23:17:41 +0900</pubDate>
       
-      <guid>http://yss44.github.io/post/helloworld/</guid>
+      <guid>http://blog.yoshiso.net/post/helloworld/</guid>
       <description>
 
 &lt;h2 id=&#34;hallo-world:b0550240c0a1b7c12779ff8220a94c0f&#34;&gt;Hallo world&lt;/h2&gt;
